@@ -1,3 +1,6 @@
+# Problem Description Link
+https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal
+
 # Approach
 <!-- Describe your approach to solving the problem. -->
 - Count each letters among all words
