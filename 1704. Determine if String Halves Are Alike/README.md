@@ -6,7 +6,7 @@ https://leetcode.com/problems/determine-if-string-halves-are-alike
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
 
 # Code
-```
+``` javascript []
 /**
  * @param {string} s
  * @return {boolean}
